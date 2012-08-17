@@ -1,5 +1,5 @@
 === JinMenu ===
-Contributors: OpalWebTech
+Contributors: aniketan
 Donate link: http://buffernow.com/donate/
 Tags: jquery code in menu, onclick in wp menu, javascript, wp menu, jQuery, onclick event
 Requires at least: 3.4.1
