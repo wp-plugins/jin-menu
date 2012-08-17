@@ -1,0 +1,1 @@
+<?php/*Plugin Name: JinMenuPlugin URI: http://buffernow.com/Description: Put Onclick Event In WP MENUVersion: 1.0.0Author: Rohit ChowdharyAuthor URI: http://buffernow.com/about-me/*/  include("action.php"); include("jsom-function.php");?>
