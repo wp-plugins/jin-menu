@@ -44,7 +44,7 @@ For support and further information about the JinMenu plugin see the plugins hom
 
 == Changelog ==
 
-= 1.3 =
+= 1.1.0 =
 
 * css bug fix
 * js on footer bug fix
