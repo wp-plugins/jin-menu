@@ -9,7 +9,7 @@
 					<td>
 						<blockquote>
 	<p>Thanks for using JS on Menu plugin.<br> 
-	Visit the <a href="http://buffernow.com/jinmenu" target="_blank">Plugin Homepage</a> here.
+	Visit the <a href="http://buffernow.com/jinmenu/" target="_blank">Plugin Homepage</a> here.
 	<br>If your having problems, you can check the FAQ and get support from
 	<a href="http://buffernow.com/jinmenu-faq/" target="_blank">Here</a>.<br> 
 	</p>
