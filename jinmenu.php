@@ -20,8 +20,8 @@ public static $dir, $url;
 
     function __construct()     {
 	
-	JIN::$dir = WP_PLUGIN_DIR.'/jinmenu/';
-	JIN::$url = WP_PLUGIN_URL."/jinmenu/";
+	JIN::$dir = WP_PLUGIN_DIR.'/jin-menu/';
+	JIN::$url = WP_PLUGIN_URL."/jin-menu/";
 	add_filter('nav_menu_css_class' , array($this,'jsom_menu_class') , 10 , 2);
 	add_action('admin_menu',array($this,'jonmenu'));
 	add_action('admin_footer', array($this,'jonmenu_load_script'));
