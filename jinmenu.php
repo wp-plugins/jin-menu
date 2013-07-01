@@ -6,7 +6,7 @@ Plugin URI: http://buffernow.com/
 
 Description: Put Javascript In WP MENU
 
-Version: 1.1.0
+Version: 1.1.1
 
 Author: Rohit Chowdhary
 
