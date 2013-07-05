@@ -4,7 +4,7 @@ Donate link: http://buffernow.com/donate/
 Tags: jquery code in menu, onclick in wp menu, javascript, wp menu, jQuery, onclick event
 Requires at least: 3.4.1
 Tested up to: 3.4
-Stable tag: 1.0.0
+Stable tag: 1.1.1
 The Jin Menu adds onclick event in wordpress custom menu,so that you can use your javascript/jQuery code from wordpress menu.
 
 == Description ==
