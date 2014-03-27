@@ -14,8 +14,8 @@ The Jin Menu adds onclick event in wordpress custom Menu, so that you can use yo
 Features:
 
 * Add Onclick In Wordpress Custom Menu.
-* Add User Define javascript/jQuery Function To Theme Footer.
-* Easy Interface.
+* No Extra Panel.
+* Just Activate and write your code in Custom menu.
 
 For support and further information about the JinMenu plugin see the plugins homepage at [http://buffernow.com/jinmenu-faq/](http://buffernow.com/jinmenu-faq/ "Link to JinMenu faq").
 
