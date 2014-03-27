@@ -42,7 +42,7 @@ For support and further information about the JinMenu plugin see the plugins hom
 For support and further information about the JinMenu plugin see the plugins homepage at [http://buffernow.com/jinmenu-faq/](http://buffernow.com/jinmenu-faq/ "Link to JinMenu faq").
 
 
-== Changelog === 1.2.1 =* Remove Plugin Panel* No extra js ,CSS* Textbox replaced with multiline textarea* Option will appear only on custom menu* compatibility with WordPress 3.8.1. = 1.1.1 =* jQuery bug fix* Remove unnecessary js and css* Increase performance* compatibility with WordPress 3..2. 
+== Changelog === 1.2.1 =* Plugin Panel Removed* No extra js ,CSS* Textbox replaced with multiline textarea* Option will appear only on custom menu* compatibility with WordPress 3.8.1. = 1.1.1 =* jQuery bug fix* Remove unnecessary js and css* Increase performance* compatibility with WordPress 3..2. 
 
 = 1.1.0 =
 
